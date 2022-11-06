@@ -1,0 +1,270 @@
+@media (max-width: 1341px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    .internal__main {
+        flex-direction: column;
+    }
+
+    .catalog {
+        display: flex;
+        width: 800px;
+        align-items: center;
+    }
+
+    .total {
+        flex-direction: column;
+        max-width: 1500px;
+    }
+
+    .total__box {
+        align-items: center;
+        display: flex;
+        align-items: center;
+        width: 774px !important;
+    }
+
+    .footer__nav {
+        flex-direction: column;
+    }
+
+    .list__box {
+        margin-top: 60px;
+    }
+
+    .flex {
+        text-align: left;
+        padding-left: 30px;
+
+        p {
+            width: 600px !important;
+        }
+    }
+}
+
+@media (max-width: 1150px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 900px;
+        margin: auto;
+    }
+
+    .sequence__box {
+        gap: 60px !important;
+    }
+}
+
+@media (max-width: 978px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .sequence__box {
+        flex-direction: column;
+    }
+
+    .abbos {
+        display: none;
+    }
+
+    .sequence {
+        margin-bottom: 70px;
+    }
+}
+
+@media (max-width: 941px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 800px;
+        margin: auto;
+    }
+
+    .sequence__box {
+        flex-direction: column;
+    }
+
+    .abbos {
+        display: none;
+    }
+
+    .sequence {
+        margin-bottom: 70px;
+    }
+
+    .catalog {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 869px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 780px;
+        margin: auto;
+    }
+
+    .internal__main {
+        max-width: 800px;
+        margin: auto;
+    }
+}
+
+@media (max-width: 807px) {
+    .total__box {
+        flex-direction: column;
+    }
+
+    .total__box {
+        text-align: center;
+        max-width: 400px;
+    }
+
+    .flex {
+        text-align: center;
+        padding-right: 30px;
+    }
+
+    .about__coffe {
+        max-width: 300px !important;
+    }
+}
+
+@media (max-width: 787px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 750px;
+        margin: auto;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .icon3 {
+        font-size: 30px;
+        display: block !important;
+        color: #333D4B;
+    }
+
+    .internal__main {
+        max-width: 900px;
+    }
+
+    .catalog__discription {
+        width: 350px;
+    }
+
+    .start {
+        height: 700px !important;
+    }
+
+    // .box {
+    //     padding-left: 20px !important;
+    //     text-align: center;
+    // }
+
+    .section__pharagraph {
+        margin-top: 60px !important;
+        margin-bottom: 80px !important;
+    }
+}
+
+@media (max-width: 783px) {
+
+    .container,
+    .container__md,
+    .container__hd {
+        max-width: 690px;
+        margin: auto;
+    }
+
+    .internal__main {
+        max-width: 100%;
+        margin: auto;
+    }
+
+}
+
+@media (max-width: 729px) {
+
+    .container,
+    .container__md, .container__hd {
+        max-width: 600px;
+        margin: auto;
+    }
+
+    .internal__main {
+        max-width: 100%;
+        margin: auto;
+    }
+}
+
+@media (max-width: 715px) {
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+    }
+
+    .container,
+    .container__md, .container__hd {
+        max-width: 500px ;
+        margin: auto ;
+    }
+
+    .internal__main {
+        max-width: 100% ;
+        margin: auto;
+    }
+
+    .start {
+        margin-top: 50px !important;
+        margin-bottom: 50px !important;
+    }
+}
+
+@media (max-width: 710px) {
+
+    .container,
+    .container__md {
+        max-width: 480px !important;
+        margin: auto !important;
+    }
+
+    .internal__main {
+        max-width: 100% !important;
+        margin: auto !important;
+    }
+}
+
+@media (max-width: 695px) {
+
+    .container,
+    .container__md {
+        max-width: 480px !important;
+        margin: auto !important;
+    }
+
+    .internal__main {
+        max-width: 100% !important;
+        margin: auto !important;
+    }
+}
